@@ -8,5 +8,5 @@
 #ifndef CONSTANT_H_
     #define CONSTANT_H_
 #define WIDTH    190
-#define HEIGHT    40
+#define HEIGHT    48
 #endif /* CONSTANT_H_ */
