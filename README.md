@@ -1,2 +1,2 @@
-# DVD_in_terminal
+# UWU_in_terminal
 Display dvd screensaver.
