@@ -39,7 +39,7 @@ int main(void)
         ball_pos[0] += val2add[0];
         ball_pos[1] += val2add[1];
         main_displayer(ball_pos[0], ball_pos[1]);
-        sleep(1);
+        usleep(100000);
     }
     return (0);
 }
